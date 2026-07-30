@@ -1,0 +1,7 @@
+git init // empty repo is is initialized
+git add file_name
+git commit //added to local repo
+git status // give the branch
+git log //check entire history
+git config --global user.name "" email "" // my git profile
+git config --global --list // show user credentials
